@@ -1,4 +1,4 @@
-print("HELLO!! Let's design your DC BLDC Moter.")
+print("HELLO!! Let's design your BLDC Moter.")
 import math
 A=input("If DC motor input 1  AC input 2")
 A=int(A)
